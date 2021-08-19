@@ -1,0 +1,18 @@
+country,team_matches_played,matches_won,matches_lost,matches_tied,matches_with_no_result,win_loss_ratio,avg_runs_per_wicket_batting,avg_runs_per_six_balls_batting,number_of_team_innings_batting,highest_team_score_batting,lowest_completed_score_batting
+England,746,375,334,9,28,1.122,31.10,4.91,738,481,86
+Australia,949,575,331,9,34,1.737,34.14,5.01,939,434,70
+South Africa,625,385,216,6,18,1.782,35.76,5.11,622,439,69
+West Indies,822,401,381,10,30,1.052,30.20,4.78,811,389,54
+New Zealand,772,351,374,7,40,0.938,29.21,4.82,757,402,64
+India,987,513,424,9,41,1.209,33.77,5.06,975,418,54
+Pakistan,927,486,413,8,20,1.176,30.65,4.83,926,399,43
+Sri Lanka,852,389,421,5,37,0.923,29.53,4.91,836,443,43
+Zimbabwe,529,138,373,7,11,0.369,25.31,4.51,525,351,35
+Bermuda,35,7,28,0,0,0.250,21.68,4.10,35,275,78
+Netherlands,80,31,45,1,3,0.688,25.76,4.54,79,315,80
+Bangladesh,376,128,241,0,7,0.531,25.71,4.59,373,333,58
+Kenya,154,42,107,0,5,0.392,23.01,4.25,151,347,69
+Namibia,14,5,9,0,0,0.555,21.66,4.53,14,324,45
+Ireland,156,67,78,3,8,0.858,26.89,4.80,153,331,77
+Scotland,115,42,66,1,6,0.636,25.38,4.62,113,371,68
+Afghanistan,126,59,63,1,3,0.936,26.42,4.73,125,338,58

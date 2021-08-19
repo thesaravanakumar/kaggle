@@ -1,0 +1,12 @@
+country,team_matches_played,matches_won,matches_lost,matches_tied,matches_drawn,win_loss_ratio,avg_runs_per_wicket_batting,avg_runs_per_six_balls_batting,number_of_team_innings_batting,highest_team_score_batting,lowest_completed_score_batting
+England,1022,371,304,0,347,1.220,32.24,2.75,1838,903,45
+Australia,830,393,224,2,211,1.754,34.36,2.95,1513,758,36
+South Africa,439,165,150,0,124,1.100,31.94,2.80,801,682,30
+West Indies,545,174,195,1,175,0.892,31.85,2.99,989,790,47
+New Zealand,442,101,175,0,166,0.577,29.24,2.68,814,715,26
+India,542,157,167,1,217,0.940,33.95,2.93,959,759,42
+Pakistan,428,138,130,0,160,1.061,32.65,2.91,768,765,49
+Sri Lanka,289,92,109,0,88,0.844,32.35,3.09,528,952,71
+Zimbabwe,110,12,70,0,28,0.171,26.30,2.70,211,563,51
+Bangladesh,119,14,89,0,16,0.157,24.61,3.12,232,638,43
+Ireland,3,0,3,0,0,0.000,19.56,2.90,6,339,38

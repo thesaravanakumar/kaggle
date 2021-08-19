@@ -1,0 +1,12 @@
+country,avg_runs_per_wicket_bowling,avg_runs_per_six_balls_bowling,number_of_team_innings_bowling,highest_team_score_bowling,lowest_completed_score_bowling
+England,30.52,2.79,1875,759,26
+Australia,29.44,2.76,1563,903,36
+South Africa,30.22,2.89,806,756,45
+West Indies,32.50,2.83,1004,849,43
+New Zealand,34.62,2.92,776,660,51
+India,34.11,2.85,974,952,79
+Pakistan,32.29,2.95,776,790,53
+Sri Lanka,33.96,3.08,507,765,62
+Zimbabwe,39.26,3.07,186,735,103
+Bangladesh,46.10,3.48,187,730,111
+Ireland,28.10,3.32,6,314,85
