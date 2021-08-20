@@ -35,3 +35,8 @@
 - [Titanic - Machine Learning from Disaster](https://www.kaggle.com/victorsullivan/titanic?scriptVersionId=69804101)
 ## Datasets
 - [Blender Dataset](https://www.kaggle.com/victorsullivan/blender-dataset)
+- [Cars Stock Dataset](https://www.kaggle.com/victorsullivan/cars-stock-dataset)
+- [Cricket World Cup and IPL Dataset](https://www.kaggle.com/victorsullivan/cricket-world-cup-and-ipl-dataset)
+- [Top Cryptocurrency Dataset](https://www.kaggle.com/victorsullivan/top-cryptocurrency-dataset)
+- [Covid-19 Dataset](https://www.kaggle.com/victorsullivan/covid19-dataset)
+- [Top Digital Tech Companies Stock Dataset](https://www.kaggle.com/victorsullivan/top-digital-tech-companies-stock-dataset)
