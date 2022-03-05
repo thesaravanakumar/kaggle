@@ -1,5 +1,7 @@
 # kaggle
 <p align="center"> 
+  <img width="860" src="https://user-images.githubusercontent.com/59575502/156880855-b7db4db8-ab15-4ff8-890a-4d1c1db3780d.png">
+
 <img src="https://user-images.githubusercontent.com/59575502/130084501-3e4cdce8-d16a-42ca-91ba-9bb8a58be021.png">
 </p>
 <p align="center">
@@ -40,3 +42,6 @@
 - [Top Cryptocurrency Dataset](https://www.kaggle.com/victorsullivan/top-cryptocurrency-dataset)
 - [Covid-19 Dataset](https://www.kaggle.com/victorsullivan/covid19-dataset)
 - [Top Digital Tech Companies Stock Dataset](https://www.kaggle.com/victorsullivan/top-digital-tech-companies-stock-dataset)
+
+<p align="center">
+</p>
